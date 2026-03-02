@@ -4,7 +4,7 @@
 
 Brasil
 
-Construo **produtos escaláveis**, **plataformas SaaS**, e **sistema de alto desempenho**.  
+Construo **produtos escaláveis**, **plataformas SaaS** e **sistema de alto desempenho**.  
 Tenho foco em **arquitetura, performance e código limpo**.
 
 ---
