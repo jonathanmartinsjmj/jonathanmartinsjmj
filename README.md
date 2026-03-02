@@ -4,7 +4,8 @@
 
 Brasil
 
-Com experiência em **Desenvolvimento Full Stack**, atuando em **plataformas SaaS** e **sistema de alto desempenho**.  
+Com experiência em **Desenvolvimento Full Stack**, atuando em **plataformas SaaS** e **sistema de alto desempenho**.
+Graduado em Sistemas de informação.
 
 ---
 
