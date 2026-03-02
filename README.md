@@ -1,6 +1,6 @@
-# Olá 👋🏾, Eu sou Jonathan Martins
+# Olá 👋🏾, Sou Jonathan Martins de Jesus
 
-🚀 **Desenvolvedor de Software Júnior C# & Angular**
+🚀 **Desenvolvedor de Software Júnior em C# & Angular**
 
 Brasil
 
