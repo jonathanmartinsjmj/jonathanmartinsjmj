@@ -39,6 +39,7 @@ Com experiência em **Desenvolvimento Full Stack**, atuando em **plataformas Saa
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
 ![HTML](https://img.shields.io/badge/-HTML-fff?&logo=HTML5)
+![HTML]([https://img.shields.io/badge/-HTML-fff?&logo=HTML5](https://img.shields.io/badge/logo-HTML5-e34f26?logo=html5&amp;label=&amp;labelColor=555555&amp;logoColor=white#:~:text=logo%20logo.%20HTML5%20HTML5.))
 
 ### Backend
 
