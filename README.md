@@ -1,4 +1,4 @@
-# Olá 👋🏾, Sou Jonathan Martins de Jesus
+# Olá 👋🏾, sou Jonathan Martins de Jesus
 
 🚀 **Desenvolvedor de Software em C# & Angular**
 
