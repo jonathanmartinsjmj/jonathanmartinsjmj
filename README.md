@@ -24,8 +24,9 @@ Com experiência em **Desenvolvimento Full Stack**, atuando em **plataformas Saa
 ## 🧠 O que eu faço
 
 -   🏗️ SaaS e sistema de alta escala
--   ⚡ Otimização de desempenho
 -   🧩 Arquitetura limpa e design de sistemas
+-   🪲 Identificação e correção de bugs
+-   ⚡ Otimização de desempenho
 -   🔐 APIs seguras e autenticação
 
 ---
