@@ -1,7 +1,8 @@
 # Olá 👋🏾, Eu sou Jonathan Martins
 
 🚀 **Desenvolvedor de Software Júnior C# & Angular**
-🇧🇷 Brasil
+
+Brasil
 
 Construo **produtos escaláveis**, **plataformas SaaS**, e **sistema de alto desempenho**.  
 Tenho foco em **arquitetura, performance e código limpo**.
