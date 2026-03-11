@@ -1,6 +1,6 @@
 # Olá 👋🏾, sou Jonathan Martins de Jesus
 
-🚀 **Desenvolvedor de Software em C# & Angular**
+🚀 **Desenvolvedor de Software em C# & Angular** **Analista de Qualidade de Software**
 
 Brasil
 
